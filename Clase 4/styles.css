@@ -1,0 +1,43 @@
+h1 {
+    text-decoration: none;
+    font-weight: 200;
+    text-decoration-line: underline;
+}
+
+#throughtext{
+    text-decoration-line: line-through;
+}
+
+#azulycursiva{
+    color:aquamarine;
+    font-style: italic;
+}
+
+#verde{
+    background-color: green;
+}
+
+#ocre{
+    color: burlywood;
+    font-weight: bold;
+}
+
+.rojo
+{
+    color: red;
+}
+
+.tituloitemlista
+{
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#resaltadoamarillocursiva{
+    background-color: yellow;
+    font-style: italic;
+}
+
+#resaltadoceleste{
+    background-color: aqua;
+}
